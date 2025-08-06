@@ -1,0 +1,11 @@
+{
+  "devices": {},
+  "connections": [],
+  "current_device": null,
+  "global_statistics": {
+    "total_packets_sent": 0,
+    "total_packets_delivered": 0,
+    "total_packets_dropped": 0,
+    "total_hops": 0
+  }
+}
